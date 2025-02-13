@@ -1,4 +1,4 @@
-package ncc_study_organization.propply_back;
+package ncc_study_organization;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

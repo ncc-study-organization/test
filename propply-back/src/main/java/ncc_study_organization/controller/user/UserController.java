@@ -1,4 +1,4 @@
-package ncc_study_organization.propply_back.controller.user;
+package ncc_study_organization.controller.user;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
