@@ -1,4 +1,4 @@
-package ncc_study_organization.propply_back;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
