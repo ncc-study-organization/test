@@ -8,6 +8,7 @@ class PropplyBackApplicationTests {
 
 	@Test
 	void contextLoads() {
+		String s = "test";
 	}
 
 }
